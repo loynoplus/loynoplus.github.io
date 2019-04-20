@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "gayla.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4010,7 +4010,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#cccccc",
+              "color": "#efefef",
               "font-weight": "300"
             },
             ".number-wrap": {
@@ -4102,7 +4102,7 @@
               }
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_name": "countdown2",
