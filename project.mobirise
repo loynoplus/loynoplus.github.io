@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "home.html",
+    "currentPage": "flyers.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1801,8 +1801,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/8dd5b76fa65b43f089bf39da69d812e9-1056x1632.png",
-                "thumb": "@PROJECT_PATH@/assets/images/8dd5b76fa65b43f089bf39da69d812e9-1056x1632-800x1236.png",
+                "image": "@PROJECT_PATH@/assets/images/c6731c3fd1e84f3eaf830569d0f46d17-1056x1632.png",
+                "thumb": "@PROJECT_PATH@/assets/images/c6731c3fd1e84f3eaf830569d0f46d17-1056x1632-800x1236.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
