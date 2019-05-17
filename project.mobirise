@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "flyers.html",
+    "currentPage": "past.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -49,7 +49,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Meet The Board",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -697,7 +697,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Events",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -1236,7 +1236,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Flyers",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -1760,7 +1760,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Past Events",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -2485,7 +2485,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Back to School Splach with PLUS+",
+                "title": "Back to School Splash with PLUS+",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Gathering in the University Sports Complex, PLUS+ members came together and swam, ate pizza, and played games, strengthening the community within the organization.&nbsp;",
@@ -2601,7 +2601,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Under Construction",
-        "order": 1
+        "order": 6
       },
       "components": [
         {
@@ -3929,7 +3929,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "PLUS+ Gayla 2019",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
