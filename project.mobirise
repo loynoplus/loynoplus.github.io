@@ -47,7 +47,7 @@
   "pages": {
     "board.html": {
       "settings": {
-        "meta_descr": "Web Generator Description",
+        "meta_descr": "The Executive Board of Plus+",
         "title": "Meet The Board",
         "order": 2
       },
@@ -4427,9 +4427,9 @@
         }
       ]
     },
-    "page7.html": {
+    "evaluate.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "Send Evaluations and suggestions to the Plus+ Executive Board.",
         "title": "Evaluate",
         "order": 1
       },
